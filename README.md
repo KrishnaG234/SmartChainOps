@@ -28,7 +28,7 @@ The evolution of software development has introduced challenges in managing depl
    - Real-time issue identification and proactive resolution.
 
 2. **MERN Stack Framework:**
-   - A dynamic dashboard facilitates real-time monitoring and system management.
+   - A dynamic dashboard that facilitates real-time monitoring and system management.
 
 3. **Hybrid Recommendation System (Optional):**
    - Combines content-based filtering and collaborative filtering for advanced user recommendations.
