@@ -34,10 +34,10 @@ The evolution of software development has introduced challenges in managing depl
    - Combines content-based filtering and collaborative filtering for advanced user recommendations.
   
 ## Usage
-**Monitoring Dashboard**: View real-time deployment logs and status updates.
-**Anomaly Detection**: Use AI/ML tools to predict and mitigate issues.
-**Deployment Logs**: Access immutable blockchain-secured records for audit and compliance.
-**Custom Configuration**: Tailor deployment settings for specific pipelines.
+   - **Monitoring Dashboard**: View real-time deployment logs and status updates.
+   - **Anomaly Detection**: Use AI/ML tools to predict and mitigate issues.
+   - **Deployment Logs**: Access immutable blockchain-secured records for audit and compliance.
+   - **Custom Configuration**: Tailor deployment settings for specific pipelines.
 
 ## Contact
 For queries or contributions:
